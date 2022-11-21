@@ -62,3 +62,5 @@
 [user]
 	email = ozzolaa@gmail.com
 	name = annelaure ozzola
+[safe]
+	directory = /home/annelaure/code/annelaur/rails-watch-list
